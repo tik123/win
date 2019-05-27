@@ -1,3 +1,8 @@
+#include<iostream.h>
+#include<strings.h>
+
+Loop
+
 function ABC {
  information here ABC1
  information here ABC2
@@ -5,8 +10,11 @@ function ABC {
 }
 
 function DEF {
- information here DEF1
- information here DEF2
- information here DEF3
+ information here REW1
+ information here SDF2
+ information here XER3
 }
 
+Goto Loop
+
+end
