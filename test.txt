@@ -1,7 +1,7 @@
 function ABC {
- information here ABC1
- information here ABC2
- information here ABC3
+ information here ABC112; (...comments...) 
+ information here ABC234; (...comments...) 
+ information here ABC356; (...comments...) 
 }
 
 function DEF {
